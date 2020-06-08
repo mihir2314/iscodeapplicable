@@ -1,0 +1,16 @@
+{
+	"requestID": "1",
+	"transDate": "01-06-2020",
+	"transTypeCode": "SvC-r",
+	"currency": "USD",
+	"amount": "1500",
+	"promoCode": "KOTAKFIRST",
+	"channel": "PorTaL",
+	"rate": "77.31",
+	"ibr": "75.31",
+	"cardRate": "77.31",
+	"perUnit": "1",
+	"buySellSign": "-1",
+	"orgCharges": "100",
+	"lcyAmount": "199999"
+}

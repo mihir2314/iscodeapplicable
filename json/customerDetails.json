@@ -1,0 +1,20 @@
+{
+    "cif": "12345",
+    "customerCategory": [
+        "STUDENT",
+        "ace",
+        "ad"
+    ],
+    "usedCodes": [
+        {
+            "codeType": "P",
+            "codeName": "KOTAKFIRST",
+            "usedCount": "1"
+        },
+        {
+            "codeType": "D",
+            "codeName": "STUDENT",
+            "usedCount": "2"
+        }
+    ]
+}
